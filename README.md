@@ -1,30 +1,23 @@
-# This is a large heading
+# JAZ
 
-## This is a smaller heading
+## Back is currently in pain from not having a great chair.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm trying to learn Unix as I want to learn more.. genrically in life. Why not ey?
 
-- This is
-- an unordered
-- list
+### I'm a Private Person
+
+So, I shall not disclose much about myself. Apologies in advance.
+- ":)"
+- "Testing"
+- "Testing again"
+
+### Another title?
 
 1. This is
 2. an ordered
 3. list
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+No thank you. For now anyways.
